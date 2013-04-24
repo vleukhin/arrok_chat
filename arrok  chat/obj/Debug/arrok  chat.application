@@ -4,14 +4,14 @@
   <description asmv2:publisher="arrok  chat" asmv2:product="arrok  chat" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <deployment install="true" mapFileExtensions="true" />
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="arrok  chat.exe.manifest" size="3977">
+    <dependentAssembly dependencyType="install" codebase="arrok  chat.exe.manifest" size="4209">
       <assemblyIdentity name="arrok  chat.exe" version="1.0.0.1" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>TeKVkLg1889jISaLpD1/ZWG+WO4=</dsig:DigestValue>
+        <dsig:DigestValue>Q9N8AAsSF5X8amYZF0O+CGC9ETo=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
