@@ -1,0 +1,17 @@
+C:\NoraD\Учёба\III курс\2 сем\Разработка и стандартизация\arrok chat\arrok  chat\bin\Release\arrok  chat.exe.config
+C:\NoraD\Учёба\III курс\2 сем\Разработка и стандартизация\arrok chat\arrok  chat\bin\Release\arrok  chat.exe.manifest
+C:\NoraD\Учёба\III курс\2 сем\Разработка и стандартизация\arrok chat\arrok  chat\bin\Release\arrok  chat.application
+C:\NoraD\Учёба\III курс\2 сем\Разработка и стандартизация\arrok chat\arrok  chat\bin\Release\arrok  chat.exe
+C:\NoraD\Учёба\III курс\2 сем\Разработка и стандартизация\arrok chat\arrok  chat\bin\Release\arrok  chat.pdb
+C:\NoraD\Учёба\III курс\2 сем\Разработка и стандартизация\arrok chat\arrok  chat\obj\Release\ResolveAssemblyReference.cache
+C:\NoraD\Учёба\III курс\2 сем\Разработка и стандартизация\arrok chat\arrok  chat\obj\Release\arrok__chat.main_form.resources
+C:\NoraD\Учёба\III курс\2 сем\Разработка и стандартизация\arrok chat\arrok  chat\obj\Release\arrok__chat.dialog_form.resources
+C:\NoraD\Учёба\III курс\2 сем\Разработка и стандартизация\arrok chat\arrok  chat\obj\Release\arrok__chat.Properties.Resources.resources
+C:\NoraD\Учёба\III курс\2 сем\Разработка и стандартизация\arrok chat\arrok  chat\obj\Release\arrok__chat.transferfile_form.resources
+C:\NoraD\Учёба\III курс\2 сем\Разработка и стандартизация\arrok chat\arrok  chat\obj\Release\arrok__chat.settings_form.resources
+C:\NoraD\Учёба\III курс\2 сем\Разработка и стандартизация\arrok chat\arrok  chat\obj\Release\arrok  chat.csproj.GenerateResource.Cache
+C:\NoraD\Учёба\III курс\2 сем\Разработка и стандартизация\arrok chat\arrok  chat\obj\Release\arrok  chat.exe.manifest
+C:\NoraD\Учёба\III курс\2 сем\Разработка и стандартизация\arrok chat\arrok  chat\obj\Release\arrok  chat.application
+C:\NoraD\Учёба\III курс\2 сем\Разработка и стандартизация\arrok chat\arrok  chat\obj\Release\arrok  chat.exe
+C:\NoraD\Учёба\III курс\2 сем\Разработка и стандартизация\arrok chat\arrok  chat\obj\Release\arrok  chat.pdb
+C:\NoraD\Учёба\III курс\2 сем\Разработка и стандартизация\arrok chat\arrok  chat\obj\Release\arrok__chat.f_GameKNB.resources

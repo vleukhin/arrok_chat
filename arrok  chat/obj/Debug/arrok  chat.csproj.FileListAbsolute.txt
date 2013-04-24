@@ -1,0 +1,34 @@
+C:\NoraD\Учёба\III курс\2 сем\Разработка и стандартизация\arrok chat\arrok  chat\bin\Debug\arrok  chat.exe.config
+C:\NoraD\Учёба\III курс\2 сем\Разработка и стандартизация\arrok chat\arrok  chat\bin\Debug\arrok  chat.exe.manifest
+C:\NoraD\Учёба\III курс\2 сем\Разработка и стандартизация\arrok chat\arrok  chat\bin\Debug\arrok  chat.application
+C:\NoraD\Учёба\III курс\2 сем\Разработка и стандартизация\arrok chat\arrok  chat\bin\Debug\arrok  chat.exe
+C:\NoraD\Учёба\III курс\2 сем\Разработка и стандартизация\arrok chat\arrok  chat\bin\Debug\arrok  chat.pdb
+C:\NoraD\Учёба\III курс\2 сем\Разработка и стандартизация\arrok chat\arrok  chat\obj\Debug\ResolveAssemblyReference.cache
+C:\NoraD\Учёба\III курс\2 сем\Разработка и стандартизация\arrok chat\arrok  chat\obj\Debug\arrok__chat.main_form.resources
+C:\NoraD\Учёба\III курс\2 сем\Разработка и стандартизация\arrok chat\arrok  chat\obj\Debug\arrok__chat.dialog_form.resources
+C:\NoraD\Учёба\III курс\2 сем\Разработка и стандартизация\arrok chat\arrok  chat\obj\Debug\arrok__chat.Properties.Resources.resources
+C:\NoraD\Учёба\III курс\2 сем\Разработка и стандартизация\arrok chat\arrok  chat\obj\Debug\arrok__chat.transferfile_form.resources
+C:\NoraD\Учёба\III курс\2 сем\Разработка и стандартизация\arrok chat\arrok  chat\obj\Debug\arrok__chat.settings_form.resources
+C:\NoraD\Учёба\III курс\2 сем\Разработка и стандартизация\arrok chat\arrok  chat\obj\Debug\arrok  chat.csproj.GenerateResource.Cache
+C:\NoraD\Учёба\III курс\2 сем\Разработка и стандартизация\arrok chat\arrok  chat\obj\Debug\arrok  chat.exe.manifest
+C:\NoraD\Учёба\III курс\2 сем\Разработка и стандартизация\arrok chat\arrok  chat\obj\Debug\arrok  chat.application
+C:\NoraD\Учёба\III курс\2 сем\Разработка и стандартизация\arrok chat\arrok  chat\obj\Debug\arrok  chat.exe
+C:\NoraD\Учёба\III курс\2 сем\Разработка и стандартизация\arrok chat\arrok  chat\obj\Debug\arrok  chat.pdb
+C:\NoraD\Учёба\III курс\2 сем\Разработка и стандартизация\arrok chat\arrok  chat\obj\Debug\arrok__chat.f_GameKNB.resources
+X:\NoraD\Учёба\III курс\2 сем\Разработка и стандартизация\arrok chat\arrok  chat\bin\Debug\arrok  chat.exe.config
+X:\NoraD\Учёба\III курс\2 сем\Разработка и стандартизация\arrok chat\arrok  chat\obj\Debug\arrok  chat.exe
+X:\NoraD\Учёба\III курс\2 сем\Разработка и стандартизация\arrok chat\arrok  chat\obj\Debug\arrok  chat.pdb
+X:\NoraD\Учёба\III курс\2 сем\Разработка и стандартизация\arrok chat\arrok  chat\bin\Debug\arrok  chat.exe.manifest
+X:\NoraD\Учёба\III курс\2 сем\Разработка и стандартизация\arrok chat\arrok  chat\bin\Debug\arrok  chat.application
+X:\NoraD\Учёба\III курс\2 сем\Разработка и стандартизация\arrok chat\arrok  chat\bin\Debug\arrok  chat.exe
+X:\NoraD\Учёба\III курс\2 сем\Разработка и стандартизация\arrok chat\arrok  chat\bin\Debug\arrok  chat.pdb
+X:\NoraD\Учёба\III курс\2 сем\Разработка и стандартизация\arrok chat\arrok  chat\obj\Debug\ResolveAssemblyReference.cache
+X:\NoraD\Учёба\III курс\2 сем\Разработка и стандартизация\arrok chat\arrok  chat\obj\Debug\arrok__chat.f_GameKNB.resources
+X:\NoraD\Учёба\III курс\2 сем\Разработка и стандартизация\arrok chat\arrok  chat\obj\Debug\arrok__chat.main_form.resources
+X:\NoraD\Учёба\III курс\2 сем\Разработка и стандартизация\arrok chat\arrok  chat\obj\Debug\arrok__chat.dialog_form.resources
+X:\NoraD\Учёба\III курс\2 сем\Разработка и стандартизация\arrok chat\arrok  chat\obj\Debug\arrok__chat.Properties.Resources.resources
+X:\NoraD\Учёба\III курс\2 сем\Разработка и стандартизация\arrok chat\arrok  chat\obj\Debug\arrok__chat.transferfile_form.resources
+X:\NoraD\Учёба\III курс\2 сем\Разработка и стандартизация\arrok chat\arrok  chat\obj\Debug\arrok__chat.settings_form.resources
+X:\NoraD\Учёба\III курс\2 сем\Разработка и стандартизация\arrok chat\arrok  chat\obj\Debug\arrok  chat.csproj.GenerateResource.Cache
+X:\NoraD\Учёба\III курс\2 сем\Разработка и стандартизация\arrok chat\arrok  chat\obj\Debug\arrok  chat.exe.manifest
+X:\NoraD\Учёба\III курс\2 сем\Разработка и стандартизация\arrok chat\arrok  chat\obj\Debug\arrok  chat.application
