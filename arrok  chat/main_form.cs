@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -36,7 +36,7 @@ namespace arrok__chat
         private bool STARTpaint = false;
         private Color BoardFill = Color.FromArgb(255, 255, 255);
         private int xP, yP, xN, yN, xPt, yPt;
-        private string REGIMEpaint = "penis";
+        private string REGIMEpaint = "pen";
         private Pen P_Pen;   
 
         static private IPEndPoint remoteEP;
